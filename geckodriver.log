@@ -1,0 +1,812 @@
+1556300388802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Zxstz4tyGXOE"
+*** You are running in headless mode.
+1556300390343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556300390343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556300390344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556300394217	Marionette	INFO	Listening on port 45869
+1556300394321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=5d2ff7224ac8, line 132: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1559409987663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yeJxpZqla1oi"
+*** You are running in headless mode.
+1559409987994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559409987995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559409987995	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559409990547	Marionette	INFO	Listening on port 35319
+1559409990629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/crazydiv/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/init27/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559347211037%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/sidujjain/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/aakashns/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/nazimgirach/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/vinodreddyg/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/vermamanish/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/deepaksinghrawat/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/prajwalprashanth/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/crazydiv/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+1559410437782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2NglLPNrKzOW"
+*** You are running in headless mode.
+1559410438056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1559410438056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1559410438056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1559410440515	Marionette	INFO	Listening on port 43745
+1559410440592	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/crazydiv/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/init27/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221559347211037%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/sidujjain/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/aakashns/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/nazimgirach/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/vinodreddyg/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/vermamanish/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=13f166d5d5a3, line 222: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.kaggle.com/deepaksinghrawat/competitions, line 26: IndexSizeError: Index or size is negative or greater than the allowed amount
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1561829391195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.XEf06l5b7jYX"
+*** You are running in headless mode.
+1561829391496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561829391497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561829391497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561829394446	Marionette	INFO	Listening on port 39503
+1561829394534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561710153920%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1561829493485	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CWFoOlYpWwsB"
+*** You are running in headless mode.
+1561829493989	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1561829493990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1561829493990	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1561829496591	Marionette	INFO	Listening on port 32915
+1561829496596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221561710153920%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=47bc5ec7fd46, line 290: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1561829617197	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gfMJt8hDWy4G"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/prajwal which is owned by prajwal.)
+1570700066885	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CyDNkxud8RC7"
+*** You are running in headless mode.
+1570700068326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1570700068326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1570700068326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1570700068326	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1570700071868	Marionette	INFO	Listening on port 37725
+1570700071901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.kaggle.com/static/assets/vendor.js?v=c41c559f835f, line 414: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27515, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+[Child 27490, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 27490, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-WlAST4/firefox-69.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
