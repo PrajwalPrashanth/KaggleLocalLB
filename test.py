@@ -69,8 +69,8 @@ a = imgkit.from_string(lb.render(table_styles=[{'selector': 'tr:nth-child(even),
 my_file = {
 	'file' : ('/img.png', open('img.png', 'rb'), 'png')
     }
-#token = 'xoxp-404520580326-439464723282-602593358676-dd69fb76e0ccb31470a8f4b45b65cce9' #token(for DS Net #Kaggling channel) with permission to post under username who created the app(prajwal here) integration
-token = 'xoxp-552921805251-553368666757-600196204384-947974f64e74a9207f6d25aca283f172' # test token
+#token = '' #token(for DS Net #Kaggling channel) with permission to post under username who created the app(prajwal here) integration
+token = '' # test token
 payload={
     "filename":"img.png", 
     "token":token, 
